@@ -47,7 +47,7 @@ int main() {
         std::cout << "Starting to parse..." << std::endl;
         
         // Test basic parser functions
-        std::cout << "Parser current position: " << parser.current << std::endl;
+        std::cout << "Parser initialized successfully" << std::endl;
         
         return 0;
         
